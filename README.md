@@ -7,8 +7,7 @@ Hi, I’m Tuhacrt, a backend engineer who's learning **Function Programming** st
 </a>
 
 ## My GitHub Stats
- 
-|<a><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuhacrt&hide_title=true&show_icons=true&theme=dracula&hide_border=true"/><a/>|<a><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuhacrt&hide_title=true&langs_count=7&theme=dracula&hide_border=true&layout=compact"/></a>|
+|<a><img align="center" src="https://github-stats-extended.vercel.app/api?username=tuhacrt&hide_title=true&show_icons=true&theme=dracula&hide_border=true"/><a/>|<a><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuhacrt&hide_title=true&langs_count=7&theme=dracula&hide_border=true&layout=compact"/></a>|
 | ------------- | ------------- |
 
 ## Languages
